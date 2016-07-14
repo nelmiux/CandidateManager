@@ -1,0 +1,3 @@
+# CandidateManager
+
+iOS app
